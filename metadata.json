@@ -1,0 +1,6 @@
+{
+  "name": "Earth Voyage Hub",
+  "description": "Smart travel packing list planner tailored to destination weather forecasts, trip length, activities, and bag size.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
